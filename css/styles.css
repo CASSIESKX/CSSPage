@@ -1,0 +1,116 @@
+body{
+  margin: 0;
+  text-align: center;
+  /* try verdana first*/
+  font-family: 'Chelsea Market', cursive;
+}
+
+h1{
+  line-height: 0;
+  font-size: 4em;
+  margin-top: 0;
+  font-family: 'Indie Flower', cursive;
+}
+
+h2{
+  color: #e19999;
+  line-height: 0;
+  font-family: sans-serif;
+}
+
+h3{
+  font-family: sans-serif;
+}
+
+div{
+  background-color: #ffe8df;
+}
+
+.top-container{
+  background-color: #fab7b7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container{
+  padding-top: 20px;
+}
+
+.java{
+  text-decoration: underline;
+}
+
+.top-stars{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-stars{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bear-icon{
+  margin-top: 70px;
+  height: 170px;
+  width: 170px;
+}
+
+.code-icon{
+  height: 170px;
+  width: 170px;
+}
+
+.skiing-icon{
+  height: 170px;
+  width: 170px;
+}
+
+.education-icon{
+  height: 330px;
+  width: 330px;
+}
+
+.skill-row{
+  margin: auto;
+}
+
+.btn {
+	background-color:#e19999;
+	-webkit-border-top-left-radius:12px;
+	-moz-border-radius-topleft:12px;
+	border-top-left-radius:12px;
+	-webkit-border-top-right-radius:12px;
+	-moz-border-radius-topright:12px;
+	border-top-right-radius:12px;
+	-webkit-border-bottom-right-radius:12px;
+	-moz-border-radius-bottomright:12px;
+	border-bottom-right-radius:12px;
+	-webkit-border-bottom-left-radius:12px;
+	-moz-border-radius-bottomleft:12px;
+	border-bottom-left-radius:12px;
+text-indent:0;
+	border:1px solid #e19999;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:43px;
+	line-height:43px;
+width:125px;
+	text-decoration:none;
+	text-align:center;
+}.classname:hover {
+	background-color:#f1d1d1;
+}.classname:active {
+	position:relative;
+	top:1px;
+}
